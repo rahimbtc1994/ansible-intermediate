@@ -1,0 +1,3 @@
+# Ansible artifacts and temporary files
+*.retry
+*.log
