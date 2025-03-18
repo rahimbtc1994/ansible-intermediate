@@ -1,3 +1,5 @@
 # Ansible artifacts and temporary files
 *.retry
 *.log
+
+ansible_vms
